@@ -77,8 +77,7 @@ CREATE TABLE IF NOT EXISTS `tb_usuarios` (
 --
 
 INSERT INTO `tb_usuarios` (`id`, `cpf`, `nome`, `senha`, `tipo`, `situacao`) VALUES
-(8, '25902891892', 'CRISTIANO FALCO PINTO', '$2y$10$xl3XIYY4doHLjVqOeyEj8uxvc4Wa5glKIHo1nrWCkSu3ZVFU7.Xky', 1, 'Z'),
-(9, '32715298846', 'RAFAEL ANTONIO SOARES DA SILVA', '$2y$10$Wyj.lP0BFE5uAbZMH8JQd.73HW7Wg4uk12zIFiKg5BmJf96ZXfSfm', 1, 'Z');
+(1, '33333333333', 'Rafael Souza de Carvalho', '$2y$10$xl3XIYY4doHLjVqOeyEj8uxvc4Wa5glKIHo1nrWCkSu3ZVFU7.Xky', 1, 'Z');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
